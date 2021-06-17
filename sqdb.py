@@ -64,7 +64,8 @@ def updatetest(de_month, de_day, de_year):
     con.close()
 
 def listdb():
-    
+    pass
+    #Idek why I wrote this function, but I think it's important????
 
 if __name__ == '__main__':
     updatetest(de_month, de_day, de_year)
